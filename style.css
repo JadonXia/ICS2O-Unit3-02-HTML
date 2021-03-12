@@ -6,7 +6,7 @@ div {
 }
 
 body {
-  background-color: hotpink
+  background-color: hotpink;
 }
 
 .paragraph {
@@ -17,7 +17,7 @@ body {
 
 .img {
   padding: 0%;
-  border: 5px solid orange
+  border: 5px solid orange;
 }
 
 .table {
