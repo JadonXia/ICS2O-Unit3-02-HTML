@@ -1,0 +1,28 @@
+div {
+  width: 300px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 5px;
+}
+
+body {
+  background-color: hotpink
+}
+
+.paragraph {
+  background-color: white;
+  color: darkgoldenrod;
+  font-family: serif;
+}
+
+.img {
+  padding: 0%;
+  border: 5px solid orange
+}
+
+.table {
+  font-family: cursive;
+  color: maroon;
+  background-color: white;
+  text-align: center;
+}
